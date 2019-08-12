@@ -19,6 +19,7 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "authenticate-pam": "^1.0.2",
     "express": "^4.17.1",
     "graceful-fs": "^4.2.1",
     "node-gyp": "^5.0.3",
